@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pretendMinimal/static/css/main.7c07f6a8.css",
+    "main.css": "/pretendMinimal/static/css/main.48b44468.css",
     "main.js": "/pretendMinimal/static/js/main.04e69d97.js",
     "static/js/787.4986d22d.chunk.js": "/pretendMinimal/static/js/787.4986d22d.chunk.js",
     "static/media/tap2playhowto.mp4": "/pretendMinimal/static/media/tap2playhowto.ce43040bde2f0adbed75.mp4",
@@ -10,12 +10,12 @@
     "static/media/traderjoes.gif": "/pretendMinimal/static/media/traderjoes.11b18db1095ecb7a9184.gif",
     "static/media/marina.gif": "/pretendMinimal/static/media/marina.2fb5275f59534570d225.gif",
     "index.html": "/pretendMinimal/index.html",
-    "main.7c07f6a8.css.map": "/pretendMinimal/static/css/main.7c07f6a8.css.map",
+    "main.48b44468.css.map": "/pretendMinimal/static/css/main.48b44468.css.map",
     "main.04e69d97.js.map": "/pretendMinimal/static/js/main.04e69d97.js.map",
     "787.4986d22d.chunk.js.map": "/pretendMinimal/static/js/787.4986d22d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c07f6a8.css",
+    "static/css/main.48b44468.css",
     "static/js/main.04e69d97.js"
   ]
 }
