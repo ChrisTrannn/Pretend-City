@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pretendMinimal/static/css/main.5e23abba.css",
+    "main.css": "/pretendMinimal/static/css/main.6e49f4b7.css",
     "main.js": "/pretendMinimal/static/js/main.5265ae3c.js",
     "static/js/787.4986d22d.chunk.js": "/pretendMinimal/static/js/787.4986d22d.chunk.js",
     "static/media/marina.gif": "/pretendMinimal/static/media/marina.e5ef2cf72a9b0d9132ba.gif",
@@ -9,12 +9,12 @@
     "static/media/traderjoes.gif": "/pretendMinimal/static/media/traderjoes.11b18db1095ecb7a9184.gif",
     "static/media/beachball.gif": "/pretendMinimal/static/media/beachball.9bc245d1abe6e0ec50ae.gif",
     "index.html": "/pretendMinimal/index.html",
-    "main.5e23abba.css.map": "/pretendMinimal/static/css/main.5e23abba.css.map",
+    "main.6e49f4b7.css.map": "/pretendMinimal/static/css/main.6e49f4b7.css.map",
     "main.5265ae3c.js.map": "/pretendMinimal/static/js/main.5265ae3c.js.map",
     "787.4986d22d.chunk.js.map": "/pretendMinimal/static/js/787.4986d22d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e23abba.css",
+    "static/css/main.6e49f4b7.css",
     "static/js/main.5265ae3c.js"
   ]
 }
