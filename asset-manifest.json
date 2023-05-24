@@ -1,21 +1,27 @@
 {
   "files": {
-    "main.css": "/pretendMinimal/static/css/main.ef431093.css",
-    "main.js": "/pretendMinimal/static/js/main.bf0d143f.js",
-    "static/js/787.4986d22d.chunk.js": "/pretendMinimal/static/js/787.4986d22d.chunk.js",
+    "main.css": "/pretendMinimal/static/css/main.fd7d2543.css",
+    "main.js": "/pretendMinimal/static/js/main.e5abbb9f.js",
+    "static/js/787.818ebf98.chunk.js": "/pretendMinimal/static/js/787.818ebf98.chunk.js",
     "static/media/tap2playhowto.mp4": "/pretendMinimal/static/media/tap2playhowto.ce43040bde2f0adbed75.mp4",
-    "static/media/buoyant-force.gif": "/pretendMinimal/static/media/buoyant-force.e5ef2cf72a9b0d9132ba.gif",
     "static/media/manof.gif": "/pretendMinimal/static/media/manof.735ae44a1203b448118e.gif",
-    "static/media/beachball.gif": "/pretendMinimal/static/media/beachball.2fcd72a7f734d8fae1a2.gif",
+    "static/media/beach.gif": "/pretendMinimal/static/media/beach.2fcd72a7f734d8fae1a2.gif",
     "static/media/traderjoes.gif": "/pretendMinimal/static/media/traderjoes.11b18db1095ecb7a9184.gif",
     "static/media/marina.gif": "/pretendMinimal/static/media/marina.2fb5275f59534570d225.gif",
+    "static/media/pretendMap.png": "/pretendMinimal/static/media/pretendMap.2b57067e5ce5fce9635d.png",
+    "static/media/marinaCartoon.jpg": "/pretendMinimal/static/media/marinaCartoon.b3e94bd8aeb18429b23b.jpg",
+    "static/media/pcCharacter.png": "/pretendMinimal/static/media/pcCharacter.b6238bc28731124adc6f.png",
+    "static/media/constructionCartoon.jpg": "/pretendMinimal/static/media/constructionCartoon.c8cc1c8dcec508ea5629.jpg",
+    "static/media/beachCartoon.jpg": "/pretendMinimal/static/media/beachCartoon.0e5364237e4ee6ac1452.jpg",
+    "static/media/traderJoesCartoon.jpeg": "/pretendMinimal/static/media/traderJoesCartoon.c48ee2b0d97c7a1d2a90.jpeg",
+    "static/media/tap2playlogo.png": "/pretendMinimal/static/media/tap2playlogo.75affe697c632d2eecb4.png",
     "index.html": "/pretendMinimal/index.html",
-    "main.ef431093.css.map": "/pretendMinimal/static/css/main.ef431093.css.map",
-    "main.bf0d143f.js.map": "/pretendMinimal/static/js/main.bf0d143f.js.map",
-    "787.4986d22d.chunk.js.map": "/pretendMinimal/static/js/787.4986d22d.chunk.js.map"
+    "main.fd7d2543.css.map": "/pretendMinimal/static/css/main.fd7d2543.css.map",
+    "main.e5abbb9f.js.map": "/pretendMinimal/static/js/main.e5abbb9f.js.map",
+    "787.818ebf98.chunk.js.map": "/pretendMinimal/static/js/787.818ebf98.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef431093.css",
-    "static/js/main.bf0d143f.js"
+    "static/css/main.fd7d2543.css",
+    "static/js/main.e5abbb9f.js"
   ]
 }
