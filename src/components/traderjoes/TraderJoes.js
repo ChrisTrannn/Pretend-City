@@ -34,10 +34,9 @@ const Beach = () => {
             <div className='imageDesc'>
                 <img src={traderJoesGIF} className='gif'></img>
                 <div className='imageDescription'>
-                    Playing in the beach can help kids learn about
-                    various science concepts such as erosion, gravity, 
-                    and the properties of matter such as weight, texture, 
-                    and density.
+                    Children can learn about nutrition, math, money, 
+                    object recognition, and social skills by participating 
+                    in a pretend grocery shopping experience.
                 </div>
             </div>
 

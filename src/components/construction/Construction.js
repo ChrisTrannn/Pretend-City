@@ -34,10 +34,10 @@ const Construction = () => {
             <div className='imageDesc'>
                 <img src={constructionGIF} className='gif'></img>
                 <div className='imageDescription'>
-                    Playing in the beach can help kids learn about
-                    various science concepts such as erosion, gravity, 
-                    and the properties of matter such as weight, texture, 
-                    and density.
+                    Cranes and their ability to lift heavy objects lies 
+                    in the principles of mechanical advantage and the 
+                    application of force through the use of simple machines 
+                    such as pulleys, levers, and hydraulics.
                 </div>
             </div>
 

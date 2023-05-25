@@ -34,10 +34,8 @@ const Marina = () => {
             <div className='imageDesc'>
                 <img src={marinaGIF} className='gif'></img>
                 <div className='imageDescription'>
-                    Playing in the beach can help kids learn about
-                    various science concepts such as erosion, gravity, 
-                    and the properties of matter such as weight, texture, 
-                    and density.
+                    Buoyancy is a force that helps things float in water. 
+                    Coin sinks because it's not buoyant. Sponge floats because it's buoyant.
                 </div>
             </div>
 
