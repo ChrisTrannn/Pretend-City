@@ -51,7 +51,7 @@ const Beach = () => {
                             Museum Activities
                         </div>
                         <div className='objectiveDescription'>
-                            Click to learn about a museum activity
+                            Click to learn about a museum activity!
                         </div>
                     </div>
                     <div className='objectiveCard' onClick={() => setOpenModal2(true)}>
@@ -59,8 +59,7 @@ const Beach = () => {
                             At Home Activities
                         </div>
                         <div className='objectiveDescription'>
-                            Click to learn about at home activities that involve
-                            buoyancy, water tension, and more
+                            Click to learn about at home activities!
                         </div>
                     </div>
                 </div>
@@ -72,7 +71,7 @@ const Beach = () => {
                             Science Concepts
                         </div>
                         <div className='objectiveDescription'>
-                            Click to learn more about how a boat floats on water
+                            Click to learn about science concepts!
                         </div>
                     </div>
                     <div className='objectiveCard' onClick={() => setOpenModal4(true)}>
