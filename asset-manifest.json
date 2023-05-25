@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pretendMinimal/static/css/main.fd7d2543.css",
-    "main.js": "/pretendMinimal/static/js/main.ca380b9f.js",
+    "main.js": "/pretendMinimal/static/js/main.cf1be873.js",
     "static/js/787.818ebf98.chunk.js": "/pretendMinimal/static/js/787.818ebf98.chunk.js",
     "static/media/tap2playhowto.mp4": "/pretendMinimal/static/media/tap2playhowto.ce43040bde2f0adbed75.mp4",
     "static/media/manof.gif": "/pretendMinimal/static/media/manof.735ae44a1203b448118e.gif",
@@ -17,11 +17,11 @@
     "static/media/tap2playlogo.png": "/pretendMinimal/static/media/tap2playlogo.75affe697c632d2eecb4.png",
     "index.html": "/pretendMinimal/index.html",
     "main.fd7d2543.css.map": "/pretendMinimal/static/css/main.fd7d2543.css.map",
-    "main.ca380b9f.js.map": "/pretendMinimal/static/js/main.ca380b9f.js.map",
+    "main.cf1be873.js.map": "/pretendMinimal/static/js/main.cf1be873.js.map",
     "787.818ebf98.chunk.js.map": "/pretendMinimal/static/js/787.818ebf98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd7d2543.css",
-    "static/js/main.ca380b9f.js"
+    "static/js/main.cf1be873.js"
   ]
 }
